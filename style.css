@@ -4,7 +4,7 @@
     left: 40%;
     background-color: rgba(118, 183, 248, 0.616);
     text-align: center;
-    box-shadow: 200px 200px 400px dodgerblue;
+    box-shadow: 200px 200px 400px rgb(68, 96, 124);
     border-radius: 20px;
 }
 .card-body {
