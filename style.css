@@ -1,0 +1,12 @@
+.card {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    background-color: rgba(118, 183, 248, 0.616);
+    text-align: center;
+    box-shadow: 200px 200px 400px dodgerblue;
+    border-radius: 20px;
+}
+.card-body {
+   color: rgb(6, 26, 44);
+}
